@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: ru.yandex.qatools.allure:allure-maven-plugin:2.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ru.yandex.qatools.allure/allure-maven-plugin/2.5/2e5d3be566d5479602942e18b7868b6c2249501c/allure-maven-plugin-2.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ru.yandex.qatools.allure/allure-maven-plugin/2.5/75c53c13385192666e247a871b73a10ce675ca6e/allure-maven-plugin-2.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,18 @@
+group 'Rozetka'
+version '1.0-SNAPSHOT'
+
+apply plugin: 'java'
+
+sourceCompatibility = 1.5
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+
+    compile group: 'junit', name: 'junit', version: '4.12'
+    compile group: 'org.testng', name: 'testng', version: '6.11'
+    compile group: 'com.codeborne', name: 'selenide', version: '4.3'
+    compile group: 'ru.yandex.qatools.allure', name: 'allure-maven-plugin', version: '2.5'
+}

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.eclipse.sisu:org.eclipse.sisu.plexus:0.3.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.sisu/org.eclipse.sisu.plexus/0.3.0/3f53953a998d03b9b0f7d5098f63119e434af0ef/org.eclipse.sisu.plexus-0.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.sisu/org.eclipse.sisu.plexus/0.3.0/8f800decc0806f4504819a551d72f42b6146ad73/org.eclipse.sisu.plexus-0.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
